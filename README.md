@@ -1,2 +1,2 @@
 # go-ethereum-tutorial
-Deploy solidity smart contract  into Ethereum Network using golang.
+Deploy solidity smart contract into Ethereum Network using golang.
